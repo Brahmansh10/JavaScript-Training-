@@ -1,0 +1,27 @@
+/* #car1{height: 20px;width: 20px;background-color: black;padding: 30px;}
+#car2{height: 20px;width: 20px;background-color: white;padding: 30px;} */
+#player1{width: 100%;height: 40px;border: black;}
+#player2{width: 100%;height: 40px;}
+#player3{width: 100%;height: 40px;}
+#player4{width: 100%;height: 40px;}
+#player5{width: 100%;height: 40px;}
+#player6{width: 100%;height: 40px;}
+#player7{width: 100%;height: 40px;}
+#player8{width: 100%;height: 40px;}
+#player9{width: 100%;height: 40px;}
+#player10{width: 100%;height: 40px;}
+#player11{width: 100%;height: 40px;}
+/* #player12{width: 100%;background-color: pink;height: 40px;} */
+
+/* field.style.width = "13%"
+field.style.float = "left";
+field.style.marginTop = "10px"; */
+.divi1
+{width:13%; float: left;margin-top: 10px;
+    width: 20px; margin-left: 10px;height: 20px;padding-left: 20px;
+    background-color: red;position: relative}
+
+.text1{width: 13%;float: left;margin-top: 10px;}
+
+#finish{background-color: black;height: 441px;width: 10px;}
+#content{margin-top:15px; width: 100%;}
